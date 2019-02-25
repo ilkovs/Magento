@@ -1,1 +1,1 @@
-# Magento - First step - Creating Simple Modile
+# Magento - First steps - Creating Basic Module
